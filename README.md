@@ -1,11 +1,11 @@
 # Educational_Notebook_Prob_Stats
 
-Go to <a href="https://github.com/fazalabbas90397/Probability-and-Statistics.git">Content</a> file to access the complete set of educational notebooks to effectively learn fundamentals of Algebraic Equations using Python Programming Language, developed as a STEM project under the summer internship July 2023 at The TDF MagnifiScience Centre.
+Go to <a href="https://github.com/fazalabbas90397/Probability-and-Statistics/blob/main/Probability_and_Statistics.ipynb">Content</a> file to access the complete set of educational notebooks to effectively learn fundamentals of probability and statistics using Python Programming Language, developed as a STEM project under the summer internship July 2023 at The TDF MagnifiScience Centre.
 
 ### Members:
-1. *Soha Ejaz* | Olevels Student in Pre-Medical
-2. *Ali Abbas Wazir* | AKUEB student in Pre-Engineering
-3. *RAYYAN SHAZAD* | AS level Student.
-4. *Zain Abbas* | AKUEB student
-5. *Ibrahim Munqaz* | Class 9
-6.  *Zohair Ali Vakil* | Student in Class 9
+1. *Name* | Description
+2. *Name* | Description
+3. *Name* | Description  
+4. *Name* | Description  
+5. *Name* | Description
+6. *Name* | Description
