@@ -5,7 +5,7 @@ Go to <a href="https://github.com/fazalabbas90397/Probability-and-Statistics/blo
 ### Members:
 1. **RAYYAN SHAZAD** | AS level Student 
 2. **ASHNIB** | O level Pre Medical Student
-3. *Aasiya Qureshi* | O levels Pre Medical Student  
-4. *Name* | Description  
+3. **Aasiya Qureshi** | O levels Pre Medical Student  
+4. **AWAAB NASRUDDEEN** | O level Buisness Studies Student      
 5. *Name* | Description
 6. *Name* | Description
